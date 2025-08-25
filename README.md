@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <div align="center" style="margin-bottom: 0; padding: 0">
-    <img alt="Lexi115" src="res/name-ascii.png" width="25%" style="margin-bottom: 0;">
+    <img alt="Lexi115" src="res/name-ascii.png" width="50%" style="margin-bottom: 0;">
     <h3 style="margin: 0; padding: 0"><em>✨ Aspiring Web Developer ✨</em></h3>
 </div>
 <img src="res/rainbow-bar.gif" width="100%" height="3" style="margin-bottom: 0;">
