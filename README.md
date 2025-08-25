@@ -6,7 +6,7 @@
 <img src="res/rainbow-bar.gif" width="100%" height="3" style="margin-bottom: 0;">
 <div align="center" style="margin-bottom: 25px; padding: 0">
     <h3 style="margin: 0; padding: 20px">:•––– About me –––•:</h3>
-    <img src="res/text-box.gif" alt="about_me" width="50%" />
+    <img src="res/text-box.gif" alt="about_me" width="80%" />
 </div>
 <div align="center" style="margin-bottom: 25px; padding: 0">
     <h3 style="margin: 0; padding: 20px">:•––– My Tech Stack –––•:</h3>
