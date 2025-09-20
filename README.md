@@ -6,7 +6,8 @@
 <img src="res/rainbow-bar.gif" width="100%" height="3" style="margin-bottom: 0;">
 <div align="center" style="margin-bottom: 25px; padding: 0">
     <h3 style="margin: 0; padding: 20px">:•––– About me –––•:</h3>
-    <img src="res/text-box.gif" alt="about_me" width="50%" />
+<p><strong>I was raised by the Internet, no wonder I’m interested in what’s going on “behind the curtain.”</strong> This is the main reason I’m studying hard to become a web developer despite AI becoming more prominent and enticing than ever.</p>
+<p>Oh, and I love cooking! 🍝🍖🍕🍆🥔</p>
 </div>
 <div align="center" style="margin-bottom: 25px; padding: 0">
     <h3 style="margin: 0; padding: 20px">:•––– My Tech Stack –––•:</h3>
