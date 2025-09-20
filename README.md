@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <div align="center" style="margin-bottom: 0; padding: 0">
-    <img alt="Lexi115" src="res/name-ascii.png" width="25%" style="margin-bottom: 0;">
+    <img alt="Lexi115" src="res/name-ascii.png" width="50%" style="margin-bottom: 0;">
     <h3 style="margin: 0; padding: 0"><em>✨ Aspiring Web Developer ✨</em></h3>
 </div>
 <img src="res/rainbow-bar.gif" width="100%" height="3" style="margin-bottom: 0;">
@@ -21,13 +21,7 @@
 
 <img src="res/rainbow-bar.gif" width="100%" height="3" style="margin-bottom: 25px;">
 <div align="center" style="margin-bottom: 0; padding: 0">
-<a href="https://steamcommunity.com/id/realjoky" target="_blank">
-    <img alt="Steam" src="https://badgen.net/badge/Steam/Lexi115/black?icon=steam&scale=1.5"/>
-</a>
-<a href="https://discordapp.com/users/190843014678183936" target="_blank">
-    <img alt="Discord" src="https://badgen.net/badge/Discord/Lexi115/blue?icon=discord&scale=1.5"/>
-</a>
-<a href="https://youtube.com/@ktkdev6499?si=Uj7WRAxghYx-XEvg" target="_blank">
-    <img alt="YouTube" src="https://badgen.net/badge/YouTube/KTKDev/red?icon=youtube&scale=1.5"/>
-</a>
+<a href="https://steamcommunity.com/id/realjoky" target="_blank"><img alt="Steam" src="https://badgen.net/badge/Steam/Lexi115/black?icon=steam&scale=1.5"/></a>
+<a href="https://discordapp.com/users/190843014678183936" target="_blank"><img alt="Discord" src="https://badgen.net/badge/Discord/Lexi115/blue?icon=discord&scale=1.5"/></a>
+<a href="https://youtube.com/@ktkdev6499?si=Uj7WRAxghYx-XEvg" target="_blank"><img alt="YouTube" src="https://badgen.net/badge/YouTube/KTKDev/red?icon=youtube&scale=1.5"/></a>
 </div>
