@@ -11,12 +11,13 @@
 </div>
 <div align="center" style="margin-bottom: 25px; padding: 0">
     <h3 style="margin: 0; padding: 20px">:•––– My Tech Stack –––•:</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="75" alt="java" title="Java"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="75" alt="java" title="Java" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="75" alt="spring" title="Spring Boot" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="75" alt="html5" title="HTML5" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="75" alt="css3" title="CSS3" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="75" alt="javascript" title="JavaScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="75" alt="docker" title="Docker"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="75" alt="python" title="Python" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="75" alt="docker" title="Docker" />
 </div>
 
 <img src="res/rainbow-bar.gif" width="100%" height="3" style="margin-bottom: 25px;">
