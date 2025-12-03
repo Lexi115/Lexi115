@@ -10,19 +10,22 @@
 <p>Oh, and I love cooking! 🍝🍖🍕🍆🥔</p>
 </div>
 <div align="center" style="margin-bottom: 25px; padding: 0">
-    <h3 style="margin: 0; padding: 20px">:•––– My Tech Stack –––•:</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="75" alt="java" title="Java" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="75" alt="spring" title="Spring Boot" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="75" alt="html5" title="HTML5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="75" alt="css3" title="CSS3" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="75" alt="javascript" title="JavaScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="75" alt="python" title="Python" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="75" alt="docker" title="Docker" />
+    <h3 style="margin: 0; padding: 20px">:•––– Languages & Tools –––•:</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" alt="java" title="Java" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" alt="spring" title="Spring Boot" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" alt="git" title="Git" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" alt="mysql" title="mySQL" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" alt="postman" title="Postman" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" alt="html5" title="HTML5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" alt="css3" title="CSS3" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" alt="javascript" title="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="python" title="Python" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" alt="docker" title="Docker" />
 </div>
 
 <img src="res/rainbow-bar.gif" width="100%" height="3" style="margin-bottom: 25px;">
 <div align="center" style="margin-bottom: 0; padding: 0">
-<a href="https://steamcommunity.com/id/realjoky" target="_blank"><img alt="Steam" src="https://badgen.net/badge/Steam/Lexi115/black?icon=steam&scale=1.5"/></a>
-<a href="https://discordapp.com/users/190843014678183936" target="_blank"><img alt="Discord" src="https://badgen.net/badge/Discord/Lexi115/blue?icon=discord&scale=1.5"/></a>
-<a href="https://youtube.com/@ktkdev6499?si=Uj7WRAxghYx-XEvg" target="_blank"><img alt="YouTube" src="https://badgen.net/badge/YouTube/KTKDev/red?icon=youtube&scale=1.5"/></a>
+<a href="https://steamcommunity.com/id/realjoky" target="_blank"><img alt="Steam" src="https://custom-icon-badges.demolab.com/badge/Steam-Lexi115-636363?style=for-the-badge&labelColor=1b1b1b&logo=steam&logoColor=white"/></a>
+<a href="https://discordapp.com/users/190843014678183936" target="_blank"><img alt="Discord" src="https://custom-icon-badges.demolab.com/badge/Discord-Lexi115-4147d3?style=for-the-badge&labelColor=272a6b&logo=discord&logoColor=white"/></a>
+<a href="https://youtube.com/@ktkdev6499?si=Uj7WRAxghYx-XEvg" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-KTKDev-dd4545?style=for-the-badge&labelColor=992a2a&logo=youtube&logoColor=white"/></a>
 </div>
