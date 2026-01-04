@@ -24,7 +24,7 @@
 
 <img src="res/rainbow-bar.gif" width="100%" height="3" style="margin-bottom: 25px;">
 <div align="center" style="margin-bottom: 0; padding: 0">
-<a href="https://steamcommunity.com/id/realjoky" target="_blank"><img alt="Steam" src="https://custom-icon-badges.demolab.com/badge/Steam-Lexi115-636363?style=for-the-badge&labelColor=1b1b1b&logo=steam&logoColor=white"/></a>
-<a href="https://discordapp.com/users/190843014678183936" target="_blank"><img alt="Discord" src="https://custom-icon-badges.demolab.com/badge/Discord-Lexi115-4147d3?style=for-the-badge&labelColor=272a6b&logo=discord&logoColor=white"/></a>
-<a href="https://youtube.com/@ktkdev6499?si=Uj7WRAxghYx-XEvg" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-KTKDev-dd4545?style=for-the-badge&labelColor=992a2a&logo=youtube&logoColor=white"/></a>
+<a href="https://steamcommunity.com/id/realjoky" target="_blank"><img alt="Steam" src="https://shields.io/badge/Steam-Lexi115-636363?style=for-the-badge&labelColor=1b1b1b&logo=steam&logoColor=white"/></a>
+<a href="https://discordapp.com/users/190843014678183936" target="_blank"><img alt="Discord" src="https://shields.io/badge/Discord-Lexi115-4147d3?style=for-the-badge&labelColor=272a6b&logo=discord&logoColor=white"/></a>
+<a href="https://youtube.com/@ktkdev6499?si=Uj7WRAxghYx-XEvg" target="_blank"><img alt="YouTube" src="https://shields.io/badge/YouTube-KTKDev-dd4545?style=for-the-badge&labelColor=992a2a&logo=youtube&logoColor=white"/></a>
 </div>
