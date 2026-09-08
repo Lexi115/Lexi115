@@ -11,7 +11,7 @@
 <div align="left" style="margin-bottom: 25px; padding: 0">
     <h3 style="margin: 0; padding: 20px">• About Me</h3>
 <ul>
-    <li>Raised by the Internet and profoundly interested in what’s going on “<i>behind the curtain</i>”.</li>
+    <li>Very interested in what’s going on “<i>behind the curtain</i>” of the World Wide Web.</li>
     <li>Worked as a <strong>Minecraft Spigot server administrator for 10+ years</strong>.</li>
     <li>Wants to pursue a career as a <strong>back-end web developer</strong>, despite artificial intelligence becoming more prominent and enticing than ever.</li>
     <li>Also a big fan of cooking! 🍝</li>
@@ -25,9 +25,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" alt="mysql" title="mySQL" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" alt="mongodb" title="MongoDB" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" alt="postman" title="Postman" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="50" alt="redis" title="Redis" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" alt="git" title="Git" />      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="50" alt="redis" title="Redis" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" alt="docker" title="Docker" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="50" alt="kubernetes" title="Kubernetes" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" width="50" alt="helm" title="Helm" />         
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="50" alt="kubernetes" title="Kubernetes" />       
 </div>
